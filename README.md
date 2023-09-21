@@ -18,7 +18,7 @@
         <li><a href="#installation">Installation</a></li>
         <li><a href="#usage">Usage</a></li>
       
-    </ul>
+   </ul>
 
 <h2>Introduction</h2>
     <p>The School Management System is a web application designed to facilitate seamless communication between administrators, teachers, and students in educational institutions. It offers features such as attendance tracking, grade management, task assignments, and a complaint section for efficient school administration.</p>
